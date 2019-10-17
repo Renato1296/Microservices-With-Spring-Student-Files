@@ -9,5 +9,14 @@ eureka:
 ---
 spring:
   profiles: Person
-words: Renato,Gonza,74030834,Pedro,Mercado,48582541,Jose,Hernandez,12458254,Pepe,Aguilar,58251425
+personas:
+- dni: '74030834'
+  nombre: Renato
+  apellido: Gonza
+- dni: '14030734'
+  nombre: Pepe
+  apellido: Mariños
+- dni: '24030834'
+  nombre: Jose
+  apellido: Aguilar
   
