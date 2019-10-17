@@ -9,8 +9,8 @@ eureka:
 ---
 spring:
   profiles: Person
-personas:
-- informacion:
+informacion:
+- personas:
   - dni: '74030834'
     nombre: Renato
     apellido: Gonza
