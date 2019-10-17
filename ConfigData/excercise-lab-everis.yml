@@ -10,13 +10,14 @@ eureka:
 spring:
   profiles: Person
 personas:
-- dni: '74030834'
-  nombre: Renato
-  apellido: Gonza
-- dni: '14030734'
-  nombre: Pepe
-  apellido: Mariños
-- dni: '24030834'
-  nombre: Jose
-  apellido: Aguilar
+- informacion:
+  - dni: '74030834'
+    nombre: Renato
+    apellido: Gonza
+  - dni: '14030734'
+    nombre: Pepe
+    apellido: Mariños
+  - dni: '24030834'
+    nombre: Jose
+    apellido: Aguilar
   
