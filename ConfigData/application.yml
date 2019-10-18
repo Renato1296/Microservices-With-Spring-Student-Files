@@ -9,9 +9,9 @@ eureka:
 ---
 mensaje: Se obtuvo el listado de personas exitosamente
 ---
-mensaje_dni: Persona no registrada con el dni
+mensajedni: Persona no registrada con el dni
 ---
-mensaje_fallo_servicio: Estamos presentando fallos en la red. Espere un momento
+mensajefalloservicio: Estamos presentando fallos en la red. Espere un momento
 
 ---
 spring:
