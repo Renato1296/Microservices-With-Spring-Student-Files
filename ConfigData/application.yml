@@ -6,8 +6,11 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
+---
 mensaje: Se obtuvo el listado de personas exitosamente
+---
 mensaje_dni: Persona no registrada con el dni
+---
 mensaje_fallo_servicio: Estamos presentando fallos en la red. Espere un momento
 
 ---
