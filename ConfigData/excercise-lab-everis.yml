@@ -1,5 +1,5 @@
-list:
-  persons:
+informacion:
+  personas:
    - dni: '11223344'
      nombre: Dennis
      apellido: Wilson
