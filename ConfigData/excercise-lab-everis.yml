@@ -1,19 +1,18 @@
 informacion:
   personas:
-    - 
-      dni: '74030834'
-      nombre: Renato
-      apellido: Gonza
-    - 
-      dni: '14030734'
-      nombre: Pepe
-      apellido: Mariños
-    - 
-      dni: '24030834'
-      nombre: Jose
-      apellido: Aguilar
-     - 
-      dni: '11223344'
-      nombre: Dennis
-      apellido: Wilson
+   - dni: '11223344'
+     nombre: Dennis
+     apellido: Wilson
+   - dni: '22334455'
+     nombre: Daniel
+     apellido: Martinez
+   - dni: '33445566'
+     nombre: Diego
+     apellido: Franco
+   - dni: '99887766'
+     nombre: Sofia
+     apellido: Bardales
+   - dni: '77668855'
+     nombre: Gabriel
+     apellido: Torres
   
